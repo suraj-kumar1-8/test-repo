@@ -1,5 +1,1 @@
-// security-test.js
-
-const userId = req.query.id;
-
-db.query(`SELECT * FROM users WHERE id = ${userId}`);
+TEST_API_KEY=sk-test-123456789abcdef
